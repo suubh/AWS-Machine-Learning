@@ -36,4 +36,6 @@ Get your Gaussian Package.
       <li>gaussian_one.mean</li>
       <li>gaussian_one.stdev</li>
  </ul>
+ 
+ <p>For more details visit my <a href="https://medium.com/@subhdec99/create-your-own-python-package-for-data-science-1966e63113d2">Medium</a> article.
 

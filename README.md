@@ -28,7 +28,7 @@ Get your Gaussian Package.
 <hr> 
 <h3>Now to Install our Package </h3>
 <p>Open the cmd (for Windows) or terminal(for Linux). Move into the proper directory ,in my case to the directory which contains the distributions and setup.py files .Then create a virtual environment using the above steps. When the virtual environment is ready and open then use the pip to install your package pip install </p>
-![Screenshot from 2021-03-28 14-55-31](https://user-images.githubusercontent.com/47265493/112748138-8b230200-8fd7-11eb-877d-10ca8b951ce7.png)
+[Screenshot from 2021-03-28 14-55-31](https://user-images.githubusercontent.com/47265493/112748138-8b230200-8fd7-11eb-877d-10ca8b951ce7.png)
 
 
 <h3>To check - </h3>

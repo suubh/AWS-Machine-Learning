@@ -9,19 +9,19 @@ Get your Gaussian Package.
       <li>If not then install using - <strong><code>pip install vitualenv</code></strong></li>
       <li>Then try to create a virtual environment by using the following commands.</li>
       <ul>
-            <li><strong>```virtualenv environmentname```</strong></li>
-            <li><strong>```environmentname\Scripts\activate```</strong></li>
+            <li><strong><code>virtualenv environmentname</code></strong></li>
+            <li><strong><code>environmentname\Scripts\activate</code></strong></li>
       </ul>
       <li>The above commands will activate a virtual environment</li> .
 </ol>
 <h3>For Linux or Ubuntu:</h3><br>
 <ol>
-      <li>Check whether virtualenv is installed or not using <strong>```virtualenv - version```</strong></li>
-      <li>If not then install using - <strong>```pip install vitualenv```</strong></li>
+      <li>Check whether virtualenv is installed or not using <strong><code>virtualenv - version</code></strong></li>
+      <li>If not then install using - <strong><code>pip install vitualenv</code></strong></li>
       <li>Then try to create a virtual environment by using the following commands.</li>
       <ul>
-            <li><strong>```python3 -m venv environmentname```</strong></li>
-            <li><strong>```source environmentname/bin/activate```</strong></li>
+            <li><strong><code>python3 -m venv environmentname</code></strong></li>
+            <li><strong><code>source environmentname/bin/activate</code></strong></li>
       </ul>
       <li>This will activate the virtual environment.</li>
 </ol>
@@ -34,10 +34,10 @@ Get your Gaussian Package.
 
 <h3>To check - </h3>
 <ul>
-      <li>```from distributions import Gaussian```</li>
-      <li>```gaussian_one=Gaussian(10,3)```</li>
-      <li>```gaussian_one.mean```</li>
-      <li>```gaussian_one.stdev```</li>
+      <li><code>from distributions import Gaussian</code></li>
+      <li><code>gaussian_one=Gaussian(10,3)</code></li>
+      <li><code>gaussian_one.mean</code></li>
+      <li><code>gaussian_one.stdev</code></li>
  </ul>
  
  <p>For more details visit my <a href="https://medium.com/@subhdec99/create-your-own-python-package-for-data-science-1966e63113d2">Medium</a> article.

@@ -5,7 +5,7 @@ Get your Gaussian Package.
 <h2>Clone into your directory.</h2>
 <h3>For Windows the prerequisite are:</h3><br>
 <ol>
-      <li>Check whether virtualenv is installed or not using - <strong>```virtualenv - version```</strong></li>
+      <li>Check whether virtualenv is installed or not using - <strong> ```virtualenv - version``` </strong></li>
       <li>If not then install using - <strong>```pip install vitualenv```</strong></li>
       <li>Then try to create a virtual environment by using the following commands.</li>
       <ul>
